@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AwareOfPlaces</string>
+    <string name="time">time</string>
+    <string name="title">Title</string>
+    <string name="address">Address</string>
+    <string name="tourist_place_image">tourist place image</string>
+</resources>
